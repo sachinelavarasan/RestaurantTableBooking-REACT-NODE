@@ -9,7 +9,7 @@ const hotel = require('./api/hotel');
 
 module.exports = (app) => {
   app.get('/', (req, res) => {
-    res.send('JungleCat');
+    res.send('Hotel');
   });
   app.use('/auth', auth);
   app.use('/webhook', webhook);
