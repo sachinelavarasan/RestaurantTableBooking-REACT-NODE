@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background: #e5e5e5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+} */

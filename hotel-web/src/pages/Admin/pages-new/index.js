@@ -1,0 +1,6 @@
+export * from "./HotelList"
+export * from "./ViewHotel"
+export * from "./CommentsList"
+export * from "./MenuAndOffer"
+export * from "./BookingTable"
+export * from "./History"
